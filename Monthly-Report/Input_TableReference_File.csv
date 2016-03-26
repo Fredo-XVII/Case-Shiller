@@ -1,0 +1,25 @@
+N,City,City_name,City_abbr,M1,M3,M12,Yr5,Yr10,Yr20
+1,az_phoenix,Phoenix,PHO,M1_chg_PHO,M3_chg_PHO,M12_chg_PHO,Yr5_chg_PHO,Yr10_chg_PHO,Yr20_chg_PHO
+2,ca_los_angeles,Los Angeles,LA,M1_chg_la,M3_chg_la,M12_chg_la,Yr5_chg_la,Yr10_chg_la,Yr20_chg_la
+3,ca_san_diego,San Diego,SD,M1_chg_sd,M3_chg_sd,M12_chg_sd,Yr5_chg_sd,Yr10_chg_sd,Yr20_chg_sd
+4,ca_san_francisco,San Francisco,SF,M1_chg_sf,M3_chg_sf,M12_chg_sf,Yr5_chg_sf,Yr10_chg_sf,Yr20_chg_sf
+5,co_denver,Denver,DEN,M1_chg_DEN,M3_chg_DEN,M12_chg_DEN,Yr5_chg_DEN,Yr10_chg_DEN,Yr20_chg_DEN
+6,dc_washington,Washington,DC,M1_chg_dc,M3_chg_dc,M12_chg_dc,Yr5_chg_dc,Yr10_chg_dc,Yr20_chg_dc
+7,fl_miami,Miami,MIA,M1_chg_mia,M3_chg_mia,M12_chg_mia,Yr5_chg_mia,Yr10_chg_mia,Yr20_chg_mia
+8,fl_tampa,Tampa,TAM,M1_chg_TAM,M3_chg_TAM,M12_chg_TAM,Yr5_chg_TAM,Yr10_chg_TAM,Yr20_chg_TAM
+9,ga_atlanta,Atlanta,ATL,M1_chg_atl,M3_chg_atl,M12_chg_atl,Yr5_chg_atl,Yr10_chg_atl,Yr20_chg_atl
+10,il_chicago,Chicago,CHI,M1_chg_chi,M3_chg_chi,M12_chg_chi,Yr5_chg_chi,Yr10_chg_chi,Yr20_chg_chi
+11,ma_boston,Boston,BOS,M1_chg_bos,M3_chg_bos,M12_chg_bos,Yr5_chg_bos,Yr10_chg_bos,Yr20_chg_bos
+12,mi_detroit,Detroit,DET,M1_chg_det,M3_chg_det,M12_chg_det,Yr5_chg_det,Yr10_chg_det,Yr20_chg_det
+13,mn_minneapolis,Minneapolis,MIN,M1_chg_min,M3_chg_min,M12_chg_min,Yr5_chg_min,Yr10_chg_min,Yr20_chg_min
+14,nc_charlotte,Charlotte,CHA,M1_chg_cha,M3_chg_cha,M12_chg_cha,Yr5_chg_cha,Yr10_chg_cha,Yr20_chg_cha
+15,nv_las_vegas,Las Vegas,LV,M1_chg_lv,M3_chg_lv,M12_chg_lv,Yr5_chg_lv,Yr10_chg_lv,Yr20_chg_lv
+16,ny_new_york,New York,NYC,M1_chg_nyc,M3_chg_nyc,M12_chg_nyc,Yr5_chg_nyc,Yr10_chg_nyc,Yr20_chg_nyc
+17,oh_cleveland,Cleveland,CLE,M1_chg_cle,M3_chg_cle,M12_chg_cle,Yr5_chg_cle,Yr10_chg_cle,Yr20_chg_cle
+18,or_portland,Portland,POR,M1_chg_por,M3_chg_por,M12_chg_por,Yr5_chg_por,Yr10_chg_por,Yr20_chg_por
+19,tx_dallas,Dallas,DAL,M1_chg_dal,M3_chg_dal,M12_chg_dal,Yr5_chg_dal,Yr10_chg_dal,Yr20_chg_dal
+20,wa_seattle,Seattle,SEA,M1_chg_sea,M3_chg_sea,M12_chg_sea,Yr5_chg_sea,Yr10_chg_sea,Yr20_chg_sea
+21,composite_10,Composite 10,C10,M1_chg_C10,M3_chg_C10,M12_chg_C10,Yr5_chg_C10,Yr10_chg_C10,Yr20_chg_C10
+22,composite_20,Composite 20,C20,M1_chg_C20,M3_chg_C20,M12_chg_C20,Yr5_chg_C20,Yr10_chg_C20,Yr20_chg_C20
+23,TCF_Wtd_Avg,TCF Weighted Avg,TCF,M1_chg_tcf,M3_chg_tcf,M12_chg_tcf,Yr5_chg_tcf,Yr10_chg_tcf,Yr20_chg_tcf
+24,RLU_Wtd_Avg,RLU Avg,RLU,M1_chg_RLU,M3_chg_RLU,M12_chg_RLU,Yr5_chg_RLU,Yr10_chg_RLU,Yr20_chg_RLU
